@@ -1,0 +1,9 @@
+A:
+    1) 1, joao, 26
+	2) 2, maria, 24
+	3) 2, maria, 24
+
+B) Sim. No metodo receiveHttpRequest, deve-se mudar o return do POST para setPersonData.
+	1) 1, joao, 26
+	2) Success
+	3) 2, maria, 24
